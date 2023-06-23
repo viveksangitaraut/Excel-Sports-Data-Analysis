@@ -14,12 +14,18 @@ Extracting insights and making data-driven decisions to enhance team strategies,
 
 Skills and Techniques Utilized:
 ------------------------------------------------------------------------------------------------------------
-Excel: Data cleaning, manipulation, and analysis.
+Excel: Data cleaning, manipulation, and analysis
+
 Formulas and functions: Statistical calculations, data aggregation, and conditional statements
+
 Macros: Automating repetitive tasks and improving workflow efficiency
+
 Data visualization: Creating dynamic charts, graphs, and dashboards.
+
 Pivot tables and data tables: Analyzing large datasets and summarizing information.
+
 Statistical analysis: Identifying trends, correlations, and outliers in sports data
+
 Report generation: Presenting analysis results in a clear and concise format.
 
 
