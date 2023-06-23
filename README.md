@@ -29,4 +29,4 @@ Statistical analysis: Identifying trends, correlations, and outliers in sports d
 Report generation: Presenting analysis results in a clear and concise format.
 
 
--------    Feel free to explore the project and delve into the fascinating world of sports data analysis using Excel. Your feedback and contributions are greatly appreciated! -------
+** Feel free to explore the project and delve into the fascinating world of sports data analysis using Excel. Your feedback and contributions are greatly appreciated! **
